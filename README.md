@@ -1,1 +1,2 @@
-# Titanic-Disaster
+git mv <Titatanic-Disaster> <Titanic-Disaster>
+  
